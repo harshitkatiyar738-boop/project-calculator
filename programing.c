@@ -1,3 +1,5 @@
+//create a calculator using c language.
+//start with peprocessing activities.
 #include <stdio.h>
 int main()
 {
